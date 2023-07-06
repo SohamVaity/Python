@@ -1,6 +1,6 @@
-a1 = float(input("Enter marks for n1: "))
-a2 = float(input("Enter marks for n2: "))
-a3 = float(input("Enter marks for n3: "))
+a1 = float(input("Enter marks for a1: "))
+a2 = float(input("Enter marks for a2: "))
+a3 = float(input("Enter marks for a3: "))
 
 average = (a1 + a2 + a3) / 3
 

@@ -1,6 +1,6 @@
 # Python
 
--------------------------All Assignments 1-12 for static python will be posted in same repository -------------------------
+-------------------------All Assignments 1-12 for static python will be posted in same repository ------------------------
 
 Assignment 1 - (Named Ass1.py) submitted on 6th July 2023 at 7:06 PM.                                       
 Assignment 2 - (Named Ass2.py) submitted on 7th July 2023 at 10:10 PM.                                                                            
